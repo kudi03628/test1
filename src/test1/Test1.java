@@ -1,17 +1,10 @@
 package test1;
-
-
 import java.util.Scanner;
-
-
 
 public class Test1 {
 
 	public static void main(String[] args) {
 		
-		
-		
-	
 	Scanner sc = new Scanner(System.in);
 		
 	String input_main_num = "";
@@ -19,14 +12,6 @@ public class Test1 {
 		do {
 			
 			System.out.println("[도서 대여관리] 프로그램 입니다.");
-			
-			System.out.println("[도서 대여관리] 프로그램 입니다.");
-			System.out.println("[도서 대여관리] 프로그램 입니다.");
-			System.out.println("[도서 대여관리] 프로그램 입니다.");
-			System.out.println("[도서 대여관리] 프로그램 입니다.");
-			
-		
-			
 			
 			
 			input_main_num = sc.nextLine();
@@ -36,12 +21,9 @@ public class Test1 {
 			case "1":
 				
 				
-				
-				
 				break;
 				
 			case "2":
-				
 				
 				
 				break;	
@@ -63,7 +45,6 @@ public class Test1 {
 				System.out.println("\n[도서 대여관리] 프로그램을 종료합니다!");
 				
 				
-				
 				break;
 				
 		
@@ -82,11 +63,7 @@ public class Test1 {
 		
 		sc.close();
 		
-		
-		System.out.println("[도서 대여관리] 프로그램 입니다.");
-		
-		System.out.println("[도서 대여관리] 프로그램 입니다.");
-		System.out.println("[도서 대여관리] 프로그램 입니다.");
+
 
 	}
 
