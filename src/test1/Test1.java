@@ -20,14 +20,7 @@ public class Test1 {
 			
 			System.out.println("[도서 대여관리] 프로그램 입니다.");
 			
-			System.out.println("로그인된 회원만 이용 할 수 있습니다.\n");
-			
-			System.out.println("1.회원가입" + "    " 
-							  +"2.도서회원 로그인" + "    "  
-							  +"3.회원탈퇴" + "    " 
-							  +"4.프로그램 종료\n");
-			
-			System.out.print("원하시는 메뉴 번호를 입력해주세요 >>");
+		
 			
 			
 			
