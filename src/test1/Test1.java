@@ -20,6 +20,11 @@ public class Test1 {
 			
 			System.out.println("[도서 대여관리] 프로그램 입니다.");
 			
+			System.out.println("[도서 대여관리] 프로그램 입니다.");
+			System.out.println("[도서 대여관리] 프로그램 입니다.");
+			System.out.println("[도서 대여관리] 프로그램 입니다.");
+			System.out.println("[도서 대여관리] 프로그램 입니다.");
+			
 		
 			
 			
@@ -76,6 +81,12 @@ public class Test1 {
 		while (! ("4".equals(input_main_num) ) );
 		
 		sc.close();
+		
+		
+		System.out.println("[도서 대여관리] 프로그램 입니다.");
+		
+		System.out.println("[도서 대여관리] 프로그램 입니다.");
+		System.out.println("[도서 대여관리] 프로그램 입니다.");
 
 	}
 
